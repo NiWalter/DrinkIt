@@ -22,7 +22,7 @@ angular.module('starter.services', [])
   }, {
     id: 3,
     name: 'Adam Bradleyson',
-    lastText: 'I should buy a boat',
+    lastText: 'I should spank the monkey',
     face: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa.jpeg'
   }, {
     id: 4,
